@@ -1,2 +1,2 @@
 # Facist-
-ML Based  Rest API to filter upload profile images
+ML Based  Rest API to filter uploaded profile images
