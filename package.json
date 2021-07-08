@@ -1,0 +1,30 @@
+{
+  "name": "facist-",
+  "version": "1.0.0",
+  "description": "ML Based  Rest API to filter uploaded profile images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bit-shashank/Facist-.git"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Shashank Sahu, Sahil Verma, Kumar Gaurav, Aditya Richhariya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bit-shashank/Facist-/issues"
+  },
+  "homepage": "https://github.com/bit-shashank/Facist-#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.9"
+  }
+}
